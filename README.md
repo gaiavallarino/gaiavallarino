@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 ## About Me
 
 I'm a student with a strong interest in:
-- Data Science :desktop_computer:
+- Data Science, Machine Learning, and Deep Learning :desktop_computer:
 - Remote Sensing and Earth Observation :earth_africa::artificial_satellite:
 - GIS :world_map:
 - Climate Change and Science. :earth_africa::recycle:
