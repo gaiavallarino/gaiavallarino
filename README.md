@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Gaia Vallarino (she/her), a junior researcher at the Institute of Earth Observation of EURAC Research. I hold a M.Sc. in Geoinformatics Engineering :earth_africa::artificial_satellite: from Politecnico di Milano, and have been working on my Master's thesis at the University of Bonn, Germany. 
+I'm Gaia Vallarino (she/her), a PhD researcher at the Institute of Earth Observation of EURAC Research. I hold a M.Sc. in Geoinformatics Engineering :earth_africa::artificial_satellite: from Politecnico di Milano, and have been working on my Master's thesis at the University of Bonn, Germany. 
 
 Welcome to my GitHub profile!
 
@@ -18,15 +18,14 @@ The journey has been since an exciting one, and I'm yearning to find new opportu
 
 ## Skills
 
-- **Programming Languages:** Python, R, MATLAB, SQL, C
+- **Programming Languages:** Python, R, MATLAB, SQL
 - **Frameworks & Technologies:**
     - **GIS Software**: QGIS, ArcGIS
     - **Databases**: PostGreSQL, postgis, Geoserver;
     - **Front-End**: HTML5, CSS3, JavaScript;
     - **Back-End**: Python, Jinja, Flask;  
-- **Problem Solving:** Analytical Thinking, Algorithmic Approach, Debugging and Troubleshooting, Creative Solutions, & Continuous Learning
 - **Version Control:** Git & GitHub
-- **Languages:** English (C2), Italian (C2), Spanish (B2), German (A2 - currently learning)
+- **Languages:** English (C2), Italian (C2), Spanish (B2), German (B1)
 
 ## Projects
 
