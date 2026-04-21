@@ -14,8 +14,6 @@ I'm a geoinformatics engineer with a strong interest in:
 
 I love travelling and learning new languages. If I'm not doing either, I'm spending my time gardening :seedling:	:evergreen_tree:, playing videogames :video_game: or reading :open_book:.
 
-The journey has been since an exciting one, and I'm yearning to find new opportunities to learn, collaborate, and create.
-
 ## Skills
 
 - **Programming Languages:** Python, R, MATLAB, SQL
